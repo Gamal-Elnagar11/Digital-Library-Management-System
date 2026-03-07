@@ -1,0 +1,90 @@
+﻿body {
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #5E3B9E;
+}
+
+    *::-webkit-scrollbar {
+        width: 12px; /* Width of the scrollbar */
+    }
+
+    *::-webkit-scrollbar-track {
+        background: #5E3B9E; /* Color of the track */
+    }
+
+    *::-webkit-scrollbar-thumb {
+        background: #5E3B9E; /* Color of the thumb */
+        border-radius: 20px; /* Rounded corners of the thumb */
+    }
+
+        *::-webkit-scrollbar-thumb:hover {
+            background: #5E3B9E; /* Color of the thumb on hover */
+        }
+
+.main-contaier {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidenav {
+    height: 100%;
+    width: 250px;
+    background-color: #59339D;
+    padding-top: 15px;
+}
+
+.navigation-link {
+    text-decoration: none;
+    font-size: 17px;
+    color: #ffffff;
+    display: block;
+}
+
+.sidenav a:hover {
+    background-color: #59339D;
+    color: #ffffff !important;
+}
+
+.sidenav a {
+    padding: 10px 15px;
+}
+
+.right-panel {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.nav-bar {
+    background-color: #59339D;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-actions {
+    display: flex;
+    gap: 5px;
+}
+
+    .nav-actions button {
+        border: none;
+        background: none;
+    }
+
+        .nav-actions a:hover,
+        .nav-actions button:hover {
+            color: rgb(241, 241, 241);
+        }
+
+.content {
+    padding: 20px;
+}
