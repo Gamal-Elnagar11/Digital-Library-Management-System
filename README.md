@@ -35,34 +35,34 @@ Contributions are welcome! If you have any suggestions to improve the code or ad
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](Book Shopping Screenshots/HomePage.png)
+![Home Page](Book%20Shopping%20Screenshots/HomePage.png)
 
 
 ### Filtering
-![Filtering](Book Shopping Screenshots/Filtering.png)
+![Filtering](Book%20Shopping%20Screenshots/Filtering.png)
 
 
 ### Search
-![Search](Book Shopping Screenshots/Search.png)
+![Search](Book%20Shopping%20Screenshots/Search.png)
 
 ### Shopping Cart
-![Shopping Cart](Book Shopping Screenshots/Cart.png)
+![Shopping Cart](Book%20Shopping%20Screenshots/Cart.png)
 
 ### Checkout info
-![Checkout info](Book Shopping Screenshots/Checkout.png)
+![Checkout info](Book%20Shopping%20Screenshots/Checkout.png)
 
 ### Books Catalog
-![Books Catalog](Book Shopping Screenshots/BooksCatalog.png)
+![Books Catalog](Book%20Shopping%20Screenshots/BooksCatalog.png)
 
 
 ### Orders Dashboard
-![Orders Dashboard](Book Shopping Screenshots/OrdersDashboard.png)
+![Orders Dashboard](Book%20Shopping%20Screenshots/OrdersDashboard.png)
 
 ### Stock Management
-![Stock Management](Book Shopping Screenshots/StockManagement.png)
+![Stock Management](Book%20Shopping%20Screenshots/StockManagement.png)
 
 ### Genres Management
-![Genres Management](Book Shopping Screenshots/Genres.png)
+![Genres Management](Book%20Shopping%20Screenshots/Genres.png)
 
 
 *Developed by: [Gamal Saeed Elnagar]*
